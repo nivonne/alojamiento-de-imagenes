@@ -1,0 +1,10 @@
+body{
+    background: #dcdde1;
+}
+
+.navbar-brand img{
+    width:100px;
+    height:40px;
+    transform: translateY(-100px);
+    transform: translateX(-230px);
+}
